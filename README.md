@@ -28,7 +28,7 @@
             <tr>
                 <td>E-commerce Web Site</td>
                 <td><a href="">Repo details..</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/101328683-9c9d9e00-3870-11eb-9e2f-0d1e5cae8438.gif" alt="gif"  style="height:500px"></td>
+                <td><img src="https://img.onl/cOLNCE" alt="gif"  style="height:500px"></td>
             </tr>
         </tbody>
     </table>
