@@ -17,7 +17,7 @@
         <tbody>
             <tr>
                 <td>Parallax Web Site with Night Mode Option</td>
-                <td><a href="">Repo details..</a></td>
+                <td><a href="https://github.com/sakkarakaya/saas-parallax-website.git">Repo details..</a></td>
                 <td><img src="https://github.com/ibrahimkanber/Parallax-Website/blob/master/Project_003_.png?raw=true" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
