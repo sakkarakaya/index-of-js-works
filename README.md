@@ -29,7 +29,7 @@
                 <td><img src="https://img.onl/omkUkJ" alt="gif" style="height:500px"></td>
             </tr>
             <tr>
-                <td>Klinify Project</td>
+                <td>Restaurant Menu</td>
                 <td><a href="https://github.com/sakkarakaya/restaurant-menu">Repo details..</a></td>
                 <td><a href="https://sakkarakaya.github.io/restaurant-menu/">Go to Website</a></td>
                 <td><img src="https://github.com/frcihan/JS-Restaurant-Menu/blob/main/images/ProjectOverview.png" alt="gif" style="height:500px"></td>
