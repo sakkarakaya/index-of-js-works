@@ -38,7 +38,7 @@
                 <td>ToDo App</td>
                 <td><a href="https://github.com/sakkarakaya/js-todo-app.git">Repo details..</a></td>
                 <td><a href="https://sakkarakaya.github.io/js-todo-app/">Go to Website</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/101240625-c7f97f00-36f0-11eb-937c-3d3142275237.gif" alt="gif" style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/57039414/116937776-06787300-ac6a-11eb-8c47-9b9d586943e1.png" alt="gif" style="height:500px"></td>
             </tr>
             <tr>
                 <td>Guess the Number Game</td>
