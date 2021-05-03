@@ -17,7 +17,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>E-commerce Web Site</td>
+                <td>E-Commerce Website</td>
                 <td><a href="https://github.com/sakkarakaya/e-commerce-website">Repo details..</a></td>
                 <td><a href="https://sakkarakaya.github.io/e-commerce-website/">Go to Website</a></td>
                 <td><img src="https://img.onl/cOLNCE" alt="img" style="height:500px"></td>
@@ -41,16 +41,22 @@
                 <td><img src="https://user-images.githubusercontent.com/65809527/101240625-c7f97f00-36f0-11eb-937c-3d3142275237.gif" alt="gif" style="height:500px"></td>
             </tr>
             <tr>
-                <td>Parallax Web Site with Night Mode Option</td>
-                <td><a href="https://github.com/sakkarakaya/saas-parallax-website.git">Repo details..</a></td>
-                <td><a href="https://sakkarakaya.github.io/saas-parallax-website/">Go to Website</a></td>
-                <td><img src="https://github.com/ibrahimkanber/Parallax-Website/blob/master/Project_003_.png?raw=true" alt="gif"  style="height:500px"></td>
-            </tr>
-            <tr>
                 <td>Guess the Number Game</td>
                 <td><a href="https://github.com/sakkarakaya/GuesstheNumber-Game">Repo details..</a></td>
                 <td><a href="https://sakkarakaya.github.io/GuesstheNumber-Game/">Go to Website</a></td>
                 <td><img src="https://user-images.githubusercontent.com/65809527/101239989-70f1ab00-36ec-11eb-9a80-91ff05720b20.gif" alt="gif"  style="height:500px"></td>
+            </tr>
+            <tr>
+                <td>Color Flipper</td>
+                <td><a href="https://github.com/sakkarakaya/js-Color-Flipper">Repo details..</a></td>
+                <td><a href="https://sakkarakaya.github.io/js-Color-Flipper/">Go to Website</a></td>
+                <td><img src="https://user-images.githubusercontent.com/57039414/116937090-03c94e00-ac69-11eb-81ba-2c79fccd4df1.png" alt="gif"  style="height:500px"></td>
+            </tr>     
+            <tr>
+                <td>Parallax Web Site with Night Mode Option</td>
+                <td><a href="https://github.com/sakkarakaya/saas-parallax-website.git">Repo details..</a></td>
+                <td><a href="https://sakkarakaya.github.io/saas-parallax-website/">Go to Website</a></td>
+                <td><img src="https://github.com/ibrahimkanber/Parallax-Website/blob/master/Project_003_.png?raw=true" alt="gif"  style="height:500px"></td>
             </tr>
         </tbody>
     </table>
