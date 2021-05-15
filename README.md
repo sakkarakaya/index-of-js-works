@@ -26,7 +26,7 @@
                 <td>Klinify Project</td>
                 <td><a href="https://github.com/sakkarakaya/KlinifyProject">Repo details..</a></td>
                 <td><a href="https://sakkarakaya.github.io/KlinifyProject/">Go to Website</a></td>
-                <td><img src="https://img.onl/omkUkJ" alt="gif" style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/57039414/118378050-46781800-b5d1-11eb-9ba0-9a7f4db2cc7b.png" alt="gif" style="height:500px"></td>
             </tr>
             <tr>
                 <td>Restaurant Menu</td>
