@@ -20,7 +20,7 @@
                 <td>E-Commerce Website</td>
                 <td><a href="https://github.com/sakkarakaya/e-commerce-website">Repo details..</a></td>
                 <td><a href="https://sakkarakaya.github.io/e-commerce-website/">Go to Website</a></td>
-                <td><img src="https://img.onl/cOLNCE" alt="img" style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/57039414/118378026-22b4d200-b5d1-11eb-8a4f-4fcced4d2b5a.png" alt="img" style="height:500px"></td>
             </tr>
             <tr>
                 <td>Klinify Project</td>
